@@ -94,7 +94,7 @@ TOQIBO Electric Racing Car Off Road 1/16 Scale 2.4Ghz 50M 2WD High Speed Desert 
 - P3 Vin
 
 
-### [ATMEL Two-Wire Serial EEProm AT24C02B (Red)] (AT24C02B.pdf)
+### [ATMEL Two-Wire Serial EEProm AT24C02B (Red)](AT24C02B.pdf)
 
 ![AT24C02B](AT24C02B.png)
 
