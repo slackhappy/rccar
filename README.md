@@ -120,14 +120,14 @@ Here's what I found:
 ![662K](662K.png)
 
 
-- P1 GND from **VDD** via 4.7k resistor
+- P1 GND
 - P2 Vout
-- P3 Vin
+- P3 Vin from **VDD** via 4.7k resistor
 
 
 ### [ATMEL Two-Wire Serial EEProm AT24C02B (Red)](AT24C02B.pdf)
 
-Note: this is the first chip I found, and I thought that having a ROM on the board implied that the mystery chip was some kind of programmable microcontroller, but I don't think that is the case.  I'm not sure why this chip is here, it appears to be a red herring, or my datasheet is slighly out of spec.  It connects to the channel selection pin.  It is possible that this variant of the chip does have a channel sync feature.  This is alluded to in the car's manual
+Note: this is the first chip I found, and I thought that having a ROM on the board implied that the mystery chip was some kind of programmable microcontroller, but I don't think that is the case.  I'm not sure why this chip is here, it appears to be a red herring, or my datasheet is slighly out of spec.  It connects to the channel selection pin.  It is possible that this variant of the chip does have a channel sync feature.  This is alluded to in the car's manual.
 
 ![AT24C02B](AT24C02B.png)
 
